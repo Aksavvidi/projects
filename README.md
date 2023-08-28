@@ -1,1 +1,1 @@
-# projects
+# Mini-projects review for Structured Programming. 
